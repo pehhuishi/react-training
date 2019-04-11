@@ -28,6 +28,7 @@
 * [Chrome Extensioon: React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * [Chrome Extensioon: Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 * [Facebook Developer Tools](https://developers.facebook.com/products#open-source)
+* [Create React App](https://github.com/facebook/create-react-app)
 
 #### React Learning Resources
 * [Roadmap to becoming a React developer](https://github.com/adam-golab/react-developer-roadmap)
@@ -35,6 +36,7 @@
 * [React official documentation](https://reactjs.org/docs/getting-started.html)
 * [React patterns](https://reactpatterns.com/)
 * [The Road to learn React](https://leanpub.com/the-road-to-learn-react)
+* [Overreacted](https://overreacted.io/)
 
 #### Redux State Management
 * [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/)
